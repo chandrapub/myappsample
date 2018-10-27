@@ -1,1 +1,1 @@
-console.og("hellow world");
+console.og("hello world");
